@@ -39,7 +39,7 @@ The **Ad Image Automation** workflow automates the generation of ad images using
 
 ### Placeholder Image
 
-![Ad Image Automation Workflow](path/to/your/first-image.jpg)
+![Ad Image Automation Workflow](ads.png)
 
 ---
 
